@@ -6,4 +6,4 @@ feature_text: |
   ## Pieces of Laz
 ---
 
-Pezzetti di me: idee, progetti, pensieri su tecnologia, sport e fotografia.
+Pezzetti di me: idee, progetti, pensieri su tecnologia, sport e fotografia
