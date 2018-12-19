@@ -24,7 +24,7 @@ baseurl: ''
 title: 'Pieces of Laz'
 description: 'Pezzetti di me: idee, progetti, pensieri su tecnologia, sport e fotografia'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5?s=52"
 
 # Pagination
 paginate: 5
