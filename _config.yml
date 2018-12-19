@@ -19,10 +19,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://lazzarobaj.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Pieces of Laz'
+description: 'Pezzetti di me: idee, progetti, pensieri su tecnologia, sport e fotografia'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -45,7 +45,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "Qualche Pezzetto di me"
     feature_text: |
-      Welcome to my blog
+      Benvenuto tra questi Pezzetti di me
     feature_image: "https://picsum.photos/2560/600?image=866"
