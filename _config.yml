@@ -48,4 +48,4 @@ collections:
     description: "Qualche Pezzetto di me"
     feature_text: |
       Benvenuto tra questi appunti sparsi
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/img/blog_header_apple_devices.jpg"
