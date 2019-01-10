@@ -75,7 +75,7 @@ email: "laz@lazzarobaj.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
-# service_worker: false # Will turn off the service worker if set to false
+service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # Site navigation
