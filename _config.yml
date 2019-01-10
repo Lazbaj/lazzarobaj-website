@@ -48,7 +48,7 @@ collections:
     description: "Qualche Pezzetto di me"
     feature_text: |
       Benvenuto tra questi appunti sparsi
-    feature_image: "assets/img/blog_header_apple_devices.jpg"
+    feature_image: "/assets/img/blog_header_apple_devices.jpg"
 
 # Front matter defaults
 defaults:
