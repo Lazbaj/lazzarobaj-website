@@ -4,3 +4,13 @@ styles: true
 ---
 
 @import "alembic";
+
+.footer {
+  background: $backgroundColour;
+  color: $captionColour;
+  a {
+    color: $captionColour;
+    &:hover {
+      color: $captionColour;
+    }
+  }
