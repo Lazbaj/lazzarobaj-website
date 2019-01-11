@@ -70,9 +70,9 @@ logo: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5?s=52" # 
 description: 'Pezzetti di me: idee, progetti, pensieri su tecnologia, sport e fotografia' # Site description and default description, also used in jekyll-seo-tag
 url: 'https://lazzarobaj.com' # Site url, also used in jekyll-seo-tag
 baseurl: ''
-repo: "https://github.com/Lazbaj/lazzarobaj.com-Website"
+repo: "https://github.com/Lazbaj/lazzarobaj-website"
 email: "laz@lazzarobaj.com"
-repository: "Lazbaj/lazzarobaj.com-Website" # Name of repository, for use with Staticman
+repository: "Lazbaj/lazzarobaj-website" # Name of repository, for use with Staticman
 staticman:
   branch: "master" # Staticman comments (see staticman.yml for configuration)
 avatarurl: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
