@@ -15,7 +15,7 @@ $white: #ffffff;
 
 // Typography
 $bodytype: (
-  font-family: '-apple-system,'Helvetica Neue',Helvetica,sans-serif;',
+  font-family: $font-family-text,
   font-size: 1.125em,
   line-height: 1.5,
   font-weight: 400,
@@ -25,14 +25,14 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: '-apple-system,'Helvetica Neue',Helvetica,sans-serif;',
+  font-family: $font-family-text,
   font-weight: 400,
   bold: 700,
   cap-height: 0.75
 );
 
 $monospacetype: (
-  font-family: 'Menlo, monospace',
+  font-family: $font-family-code,
   regular: 400,
   cap-height: 0.68
 );
