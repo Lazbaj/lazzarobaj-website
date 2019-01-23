@@ -22,7 +22,7 @@ Questo è in effetti il **motivo numero uno** che giustifica l'esistenza di ques
 
 Quando leggo autori come [Federico Viticci di MacStories](https://www.macstories.net/), [Ray di DC Rainmaker](https://www.dcrainmaker.com/), [Lucio Bragagnolo di QuickLoox](http://macintelligence.org/) o [Joe Friel](https://www.joefrielsblog.com/) invidio la loro capacità di sviscerare un argomento in profondità, con spiccata intelligenza ed originalità.
 Tutto ciò mi spaventa e mi limita, non solo perché non possiedo quelle doti, ma anche perché non ambisco a produrre materiale in quel modo.
-Quindi perché insistere su questa strada? Perché nel mio piccolo credo comunque di poter [offrire qualcosa][/_posts/2019-01-24-blog-cosa.md] (poco) a qualcuno (pochi). E, soprattutto, di trovare stimolo e piacere nel farlo.
+Quindi perché insistere su questa strada? Perché nel mio piccolo credo comunque di poter [offrire qualcosa](/blog/2019/01/24/blog-cosa/) (poco) a qualcuno (pochi). E, soprattutto, di trovare stimolo e piacere nel farlo.
 
 Questo stimolo contrasta una certa monotonia, o noia, che recentemente sta caratterizzando la mia attività lavorativa. Unito all'arrivo del nostro **primo figlio**, ha suscitato in me una spinta a tendere verso la costruzione di qualcosa di nuovo, e non limitarmi alla fruizione di creazioni altrui.
 Si potrebbe parlare di *creatività*, se non fosse che questo termine allude ad un mondo, ad un immaginario, che certamente non schifo, ma che non mi appartiene.
