@@ -15,24 +15,22 @@ $white: #ffffff;
 
 // Typography
 $bodytype: (
-  font-family: $font-family-text,
-  font-size: 1.125em,
-  line-height: 1.5,
-  font-weight: 400,
+  font-family: 'Karla, sans-serif;',
+  regular: 400,
   bold: 700,
   italic: italic,
   cap-height: 0.75
 );
 
 $headingtype: (
-  font-family: $font-family-text,
-  font-weight: 400,
+  font-family: 'Karla, sans-serif;',
+  regular: 400,
   bold: 700,
   cap-height: 0.75
 );
 
 $monospacetype: (
-  font-family: $font-family-code,
+  font-family: 'Menlo, monospace',
   regular: 400,
   cap-height: 0.68
 );
