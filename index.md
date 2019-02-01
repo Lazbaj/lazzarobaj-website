@@ -16,4 +16,4 @@ Nei primi due post del **[Blog](/blog)** trovate spiegato il **[perchè](/blog/2
 
 Nella barra qui a destra trovate linkati gli altri spazi di rete in cui sono presente ed, importantissimo, il link al **[feed RSS](/feed.xml)**.
 
-[//] # (aggiornare link al post del cosa)
+[//]: # (aggiornare link al post del cosa)
