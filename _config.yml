@@ -85,8 +85,8 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
-  Categories: /categories/
-  Search: /search/
+  Categorie: /categorie/
+  Cerca: /cerca/
 
 navigation_footer:
   Back to top: "#top"

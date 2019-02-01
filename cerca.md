@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Cerca
 excerpt: "Stai cercando qualche Pezzo in particolare?"
 ---
 
