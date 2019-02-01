@@ -11,7 +11,8 @@ comments: false
 ---
 
 Partiamo da una semplice e doverosa premessa: a me non piace scrivere. La trovo un'attività tediosa, poco stimolante e quindi faticosa.
-Però amo comunicare, in particolare se l'argomento di discussione appartiene ad una delle numerose passioni che mi caratterizzano.\ Quando comunico trovo piacere nell'aiutare qualcuno in cerca di nozioni e, vicendevolmente, ad essere stuzzicato dalle parole altrui.
+Però amo comunicare, in particolare se l'argomento di discussione appartiene ad una delle numerose passioni che mi caratterizzano.\
+Quando comunico trovo piacere nell'aiutare qualcuno in cerca di nozioni e, vicendevolmente, ad essere stuzzicato dalle parole altrui.
 
 Per questo ho spesso risposto a domande di approfondimento di amici o parenti con lunghe e noiose email, apparentemente apprezzate per la loro completezza di informazioni. Ed altrettanto spesso, ho scocciato aziende, sviluppatori, blogger, ecc., con domande e commenti.\
 Tutte queste parole sono però volate nel vento. Posso recuperare qualcosa tra le e-mail, ma non ho un vero e proprio archivio di quanto creato.
