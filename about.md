@@ -10,3 +10,7 @@ Sono igegnere, lavoro nel campo del software applicato alle telecomunicazioni e 
 
 Amo approfondire gli oggetti delle mie passioni e condividere i risultati delle mie ricerche.  
 Esploro alcuni scenari particolari, e tento di ottimizzare i progetti su cui metto le mani.
+
+Due pagine da leggere come introduzione al progetto:
+* [Perché?](https://www.lazzarobaj.com/perche/)
+* [Cosa?](https://www.lazzarobaj.com/cosa/)
