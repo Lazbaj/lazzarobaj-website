@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Upgrade Mac Mini con SSD esterno
-permalink: /MacMini/
+title: Upgrade Mac Mini (Mid 2011) con SSD esterno
+permalink: /progetti/MacMini/
 ---
 
 ####Elenco del materiale necessario per l'upgrade
