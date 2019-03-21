@@ -1,14 +1,10 @@
 ---
-layout: post
-title: Perché?
-categories:
-- Blog
-tags:
-- scrivere
-- personale
+layout: page
+title: Perché
 feature_image: "/assets/img/question_mark.jpg?image=872"
-comments: false
 ---
+
+### Perché?
 
 Partiamo da una semplice e doverosa premessa: a me non piace scrivere. La trovo un'attività tediosa, poco stimolante e quindi faticosa.
 Però amo comunicare, in particolare se l'argomento di discussione appartiene ad una delle numerose passioni che mi caratterizzano.  
