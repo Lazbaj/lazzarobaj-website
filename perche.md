@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Perché?
+permalink: /perche/
 feature_image: "/assets/img/question_mark.jpg?image=872"
 ---
 
