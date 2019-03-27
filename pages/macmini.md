@@ -40,7 +40,7 @@ permalink: /progetti/MacMini/
 
 9. Suggerisco di non ripristinare dal back-up di Time Machine durante l'installazione. È più efficace effettuare un'installazione pulita e procedere successivamente al recupero dei dati necessari
 
-10. Terminata l'installatione del sistema operativo, il Mac dovrebbe avviarsi automaticamente dal disco esteno. Se ciò non avviene, occorre riavviare il Mac e tenere premuto il tasto *Opzione* durante la fase di riavvio. Si apre la schermata di selezione del disco di avvio ed è sufficiente cliccare sul disco esterno. Una volta avviato il sistema, conviene controllare le impostazione dell'ordine di avvio. Apire *Preferenze di Sistema*, selezionare *Disco di Avvio*, cliccare sul lucchetto in basso a sinistra per sbloccare le modifiche, e selezionare l'SSD come disco di avvio predefinito.
+10. Terminata l'installazione del sistema operativo, il Mac dovrebbe avviarsi automaticamente dal disco esteno. Se ciò non avviene, occorre riavviare il Mac e tenere premuto il tasto *Opzione* durante la fase di riavvio. Si apre la schermata di selezione del disco di avvio ed è sufficiente cliccare sul disco esterno. Una volta avviato il sistema, conviene controllare le impostazione dell'ordine di avvio. Apire *Preferenze di Sistema*, selezionare *Disco di Avvio*, cliccare sul lucchetto in basso a sinistra per sbloccare le modifiche, e selezionare l'SSD come disco di avvio predefinito.
 
     Se ci sono dubbi, la pagina del supporto Apple spiega dettagliatemente quest'ultima operazione: https://support.apple.com/it-it/HT202796
   
