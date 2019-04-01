@@ -22,7 +22,7 @@ permalink: /progetti/MacMini/
 
 2. Scaricare tramite App Store l'installer della versione desiderata di MacOS. La versione più recente supportata da questo modello di Mac mini è macOS High Sierra (10.13)
 
-3. Collegare il disco esterno SSD al Mac mini utilizzando il cavo Thunderbolt incluso nella confezione. Il collegamento Thunderbolt offre velocità di trasferimento fino a 10 Gb/s, mentre collegando il disco tramite USB 3.1 Gen 1 (ovvero un modo complesso di chiamare il precedente standard USB 3.0) la velocità massima raggiungibile è pari a 5 Gb/s.
+3. Collegare il disco esterno SSD al Mac mini utilizzando il cavo Thunderbolt incluso nella confezione. Il collegamento Thunderbolt offre velocità di trasferimento fino a 10 Gb/s, mentre collegando il disco tramite USB 3.1 Gen 1 (ovvero un modo complesso di chiamare il precedente standard USB 3.0) la velocità massima raggiungibile è pari a 5 Gb/s.  
     In entrambi i casi, le reali velocità di lettura e scrittura sul disco saranno limitate dalle specifiche dell'SSD, 440 MB/s in lettura, 300 MB/s in scrittura.
 
 4. Aprire l'applicazione *Utility Disco* e selezionare nella colonna a sinistra il disco SSD. ATTENZIONE: il disco vero e proprio è la prima linea del gruppo, nella sezione dei dischi esterni. Le voci raggruppate sotto sono invece le partizioni o i contenitori
@@ -43,6 +43,3 @@ permalink: /progetti/MacMini/
 10. Terminata l'installazione del sistema operativo, il Mac dovrebbe avviarsi automaticamente dal disco esteno. Se ciò non avviene, occorre riavviare il Mac e tenere premuto il tasto *Opzione* durante la fase di riavvio. Si apre la schermata di selezione del disco di avvio ed è sufficiente cliccare sul disco esterno. Una volta avviato il sistema, conviene controllare le impostazione dell'ordine di avvio. Apire *Preferenze di Sistema*, selezionare *Disco di Avvio*, cliccare sul lucchetto in basso a sinistra per sbloccare le modifiche, e selezionare l'SSD come disco di avvio predefinito.
 
     Se ci sono dubbi, la pagina del supporto Apple spiega dettagliatemente quest'ultima operazione: https://support.apple.com/it-it/HT202796
-  
-  
-*In qualità di Affiliato Amazon io ricevo un guadagno dagli acquisti idonei*
