@@ -9,9 +9,8 @@ permalink: /progetti/MacMini/
 #### Elenco del materiale necessario per l'upgrade
   
   
-* [SanDisk Extreme SSD Portatile 500 GB](https://amzn.to/2Mgch1b)
-* [Apple Adattatore da Thunderbolt 3 (USB-C) a Thunderbolt 2](https://amzn.to/2T207LZ)
-* [Cavo Thunderbolt Apple (0.5 m)](https://amzn.to/2FOBTB5)
+* [Transcend TS512GSJM500 HDD Esterno da 512GB Thunderbolt](https://amzn.to/2DoTC05)
+* [Corsair CMSA8GX3M2A1333C9 8GB 1333MHz CL9 DDR3 So-Dimm](https://amzn.to/2uEW4KI)
   
   
 - - -
@@ -23,7 +22,8 @@ permalink: /progetti/MacMini/
 
 2. Scaricare tramite App Store l'installer della versione desiderata di MacOS. La versione più recente supportata da questo modello di Mac mini è macOS High Sierra (10.13)
 
-3. Collegare il disco esterno SSD al Mac mini utilizzando gli adattatori: Mac mini --> cavo Thunderbolt --> adattatore da Thunderbolt 2 a Thunderbolt 3 (USB-C) --> SSD
+3. Collegare il disco esterno SSD al Mac mini utilizzando il cavo Thunderbolt incluso nella confezione. Il collegamento Thunderbolt offre velocità di trasferimento fino a 10 Gb/s, mentre collegando il disco tramite USB 3.1 Gen 1 (ovvero un modo complesso di chiamare il precedente standard USB 3.0) la velocità massima raggiungibile è pari a 5 Gb/s.
+    In entrambi i casi, le reali velocità di lettura e scrittura sul disco saranno limitate dalle specifiche dell'SSD, 440 MB/s in lettura, 300 MB/s in scrittura.
 
 4. Aprire l'applicazione *Utility Disco* e selezionare nella colonna a sinistra il disco SSD. ATTENZIONE: il disco vero e proprio è la prima linea del gruppo, nella sezione dei dischi esterni. Le voci raggruppate sotto sono invece le partizioni o i contenitori
 
