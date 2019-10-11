@@ -31,3 +31,5 @@ La fase di riparazione consiste nel gioco vero e proprio. La difficoltà non è 
 Ciò che rende comunque avvincente questa fase è la sensazione di interagire davvero con il prodotto che Maria sta riparando. Ruotarlo nello spazio, rimuovere le componenti, scollegare e ricollegare i fili, svitare e riavvitare le viti sono semplici azioni che vengono eseguite con gesti intuitivi e molto realistici.  
 Vi ritroverete sicuramente soddisfatti e sorridenti dopo aver svitato la prima vite con una rapida rotazione del cacciavite, o dopo aver riposto accuratamente i pezzi sul vostro piano di lavoro.  
 Capita a volte che la storia dei personaggi venga approfondita anche durante il lavoro di riparazione. Un paio di questi momenti, che non voglio anticipare per non rovinarli, sono davvero ben fatti ed emozionanti.
+
+[continua ...]
