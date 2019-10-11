@@ -33,3 +33,8 @@ Vi ritroverete sicuramente soddisfatti e sorridenti dopo aver svitato la prima v
 Capita a volte che la storia dei personaggi venga approfondita anche durante il lavoro di riparazione. Un paio di questi momenti, che non voglio anticipare per non rovinarli, sono davvero ben fatti ed emozionanti.
 
 [continua ...]
+test a capo, solo enter
+con uno spazio 
+con due spazi  
+
+
