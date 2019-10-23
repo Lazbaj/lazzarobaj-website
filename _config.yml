@@ -72,9 +72,6 @@ url: 'https://lazzarobaj.com' # Site url, also used in jekyll-seo-tag
 baseurl: ''
 repo: "https://github.com/Lazbaj/lazzarobaj-website"
 email: "laz@lazzarobaj.com"
-repository: "Lazbaj/lazzarobaj-website" # Name of repository, for use with Staticman
-staticman:
-  branch: "master" # Staticman comments (see staticman.yml for configuration)
 avatarurl: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 google_analytics: 'UA-301116-4'
 service_worker: false # Will turn off the service worker if set to false
