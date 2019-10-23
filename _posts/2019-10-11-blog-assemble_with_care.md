@@ -14,7 +14,7 @@ comments: false
 Developer: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
 Platform: iOS / iPadOS / tvOS\\
 Controller: not supported\\
-[Trailer](https://www.youtube.com/watch?v=04i8usL2lF0)\\
+[Trailer](https://www.youtube.com/watch?v=04i8usL2lF0)
 
 Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.\\
 In questa categoria possiamo sicuramente inserire **Assemble with Care**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
@@ -49,5 +49,4 @@ Nonostante sia disponibile su tutti i sistemi Apple, consiglio la fruizione su i
 - Durata molto breve
 - Difficoltà degli enigmi quasi nulla
 
-## Voto
-8+
+### Voto: 8+
