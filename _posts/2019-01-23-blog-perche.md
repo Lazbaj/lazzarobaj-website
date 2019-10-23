@@ -7,7 +7,6 @@ tags:
 - scrivere
 - personale
 feature_image: "/assets/img/question_mark.jpg?image=872"
-comments: false
 ---
 
 Partiamo da una semplice e doverosa premessa: a me non piace scrivere. La trovo un'attività tediosa, poco stimolante e quindi faticosa.
