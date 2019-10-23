@@ -11,12 +11,12 @@ feature_image: "/assets/img/assemble-768x343.png"
 comments: false
 ---
 
-Developer: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)//
-Platform: iOS / iPadOS / tvOS//
-Controller: not supported//
+Developer: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
+Platform: iOS / iPadOS / tvOS\\
+Controller: not supported\\
 [Trailer](https://www.youtube.com/watch?v=04i8usL2lF0)
 
-Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.//
+Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.\\
 In questa categoria possiamo sicuramente inserire **Assemble with Care**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
 
 Nonostante il livello di sfida offerto al giocatore sia basso ed al tempo stesso la narrazione sia invece segnante, non credo si possa definire **Assemble with Care** come una novella interattiva. Per terminare il livello è infatti necessario interagire parecchio con l'enigma, ed il giocatore non sarà spettatore di una storia completa ma di diverse scenette rese vive da alcuni cittadini di **Bellariva**.
