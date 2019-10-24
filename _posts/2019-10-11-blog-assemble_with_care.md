@@ -8,7 +8,6 @@ tags:
 - Apple Arcade
 - recensioni
 feature_image: "/assets/img/assemble-768x343.png"
-comments: false
 ---
 
 Developer: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
@@ -36,17 +35,21 @@ Vi ritroverete sicuramente soddisfatti e sorridenti dopo aver svitato la prima v
 Capita a volte che la storia dei personaggi venga approfondita anche durante il lavoro di riparazione. Un paio di questi momenti, che non voglio anticipare per non rovinarli, sono davvero ben fatti ed emozionanti.
 
 ## Giudizio in breve
+{: .conclusion}
 **Assemble with Care** è stato spesso citato nei mesi di attesa all'inaugurazione di _Apple Arcade_, in parte per la prestigiosa firma che ne è responsabile, in parte perché rappresenta ottimamente una buona fetta di quel che il servizio _Arcade_ e l'App Store ha di buono da offrire.\\
 Giochi nati per il _mobile_, pensati per essere fruiti su schermi di dimensione ridotta, che non richiedono eccessivi sforzi di tempo e che non generano frustrazione con sfide eccessive. Ma che al tempo stesso ricompensano il giocatore con un'esperienza indimenticabile. Ben più di un semplice _passatempo_!\\
 Nonostante sia disponibile su tutti i sistemi Apple, consiglio la fruizione su iPhone o iPad.
 
 ## Pro
+{: .pros}
 - Ottima narrazione coinvolgente ed emozionante
 - Grafica e sonoro molto comunicativi
 - Esperienza ludica originale ed indimenticabile
 
 ## Contro
+{: .cons}
 - Durata molto breve
 - Difficoltà degli enigmi quasi nulla
 
-### Voto: 8+
+## Voto: 8+
+{: .vote}
