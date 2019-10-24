@@ -53,3 +53,6 @@ Nonostante sia disponibile su tutti i sistemi Apple, consiglio la fruizione su i
 
 ## Voto: 8+
 {: .vote}
+
+---
+
