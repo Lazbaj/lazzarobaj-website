@@ -10,15 +10,19 @@ tags:
 feature_image: "/assets/img/assemble-768x343.png"
 ---
 
-Developer: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
-Platform: iOS / iPadOS / tvOS\\
-Controller: not supported\\
-[Trailer](https://www.youtube.com/watch?v=04i8usL2lF0)
+Sviluppatore: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
+Disponibile su: iOS / iPadOS / tvOS\\
+Controller: non supportato\\
+Link iTunes: <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>\\
 
 Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.\\
-In questa categoria possiamo sicuramente inserire **Assemble with Care**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
+In questa categoria possiamo sicuramente inserire **[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
 
-Nonostante il livello di sfida offerto al giocatore sia basso ed al tempo stesso la narrazione sia invece segnante, non credo si possa definire **Assemble with Care** come una novella interattiva. Per terminare il livello è infatti necessario interagire parecchio con l'enigma, ed il giocatore non sarà spettatore di una storia completa ma di diverse scenette rese vive da alcuni cittadini di **Bellariva**.
+Nonostante il livello di sfida offerto al giocatore sia basso ed al tempo stesso la narrazione sia invece segnante, non credo si possa definire **[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** come una novella interattiva. Per terminare il livello è infatti necessario interagire parecchio con l'enigma, ed il giocatore non sarà spettatore di una storia completa ma di diverse scenette rese vive da alcuni cittadini di **Bellariva**.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=04i8usL2lF0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Tramite brevi dialoghi ben recitati, seguiamo l'arrivo a Bellariva di **Maria**, abile riparatrice di oggetti comuni del nostro recente passato.\\
 Grazie alle sue introspezioni, capiamo che si è allontanata dalla sua famiglia in seguito a qualche diverbio e che si sposta di frequente alla ricerca del suo posto nel mondo. Si mantiene grazie ai numerosi lavoretti che le vengono commissionati e che sarà in grado di portare a termine con il nostro aiuto.
@@ -34,25 +38,33 @@ Ruotarlo nello spazio, rimuovere le componenti, scollegare e ricollegare i fili,
 Vi ritroverete sicuramente soddisfatti e sorridenti dopo aver svitato la prima vite con una rapida rotazione del cacciavite, o dopo aver riposto accuratamente i pezzi sul vostro piano di lavoro.\\
 Capita a volte che la storia dei personaggi venga approfondita anche durante il lavoro di riparazione. Un paio di questi momenti, che non voglio anticipare per non rovinarli, sono davvero ben fatti ed emozionanti.
 
+{::options parse_block_html="true" /}
+<div class="conclusion">
 ## Giudizio in breve
-{: .conclusion}
-**Assemble with Care** è stato spesso citato nei mesi di attesa all'inaugurazione di _Apple Arcade_, in parte per la prestigiosa firma che ne è responsabile, in parte perché rappresenta ottimamente una buona fetta di quel che il servizio _Arcade_ e l'App Store ha di buono da offrire.\\
-Giochi nati per il _mobile_, pensati per essere fruiti su schermi di dimensione ridotta, che non richiedono eccessivi sforzi di tempo e che non generano frustrazione con sfide eccessive. Ma che al tempo stesso ricompensano il giocatore con un'esperienza indimenticabile. Ben più di un semplice _passatempo_!\\
-Nonostante sia disponibile su tutti i sistemi Apple, consiglio la fruizione su iPhone o iPad.
+**[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** è stato spesso citato nei mesi di attesa all'inaugurazione di _Apple Arcade_, in parte per la prestigiosa firma che ne è responsabile, in parte perché rappresenta ottimamente una buona fetta di quel che il servizio _Arcade_ e l'App Store in genere hanno di buono da offrire.\\
+Giochi nati per il _mobile_, pensati per essere fruiti su schermi di dimensione ridotta, che non richiedono troppo tempo  e che non generano frustrazione con sfide fuori portata. Ma che riescono comunque a ricompensare il giocatore con un'esperienza indimenticabile. Ben più di semplici _passatempi_!\\
+Nonostante il gioco sia disponibile su tutti i sistemi Apple, ne consiglio la fruizione su iPhone o iPad.
+</div>
 
+<div class="pros">
 ## Pro
-{: .pros}
 - Ottima narrazione coinvolgente ed emozionante
 - Grafica e sonoro molto comunicativi
 - Esperienza ludica originale ed indimenticabile
+</div>
 
+<div class="cons">
 ## Contro
-{: .cons}
 - Durata molto breve
 - Difficoltà degli enigmi quasi nulla
+</div>
 
-## Voto: 8+
-{: .vote}
+<div class="vote">
+## Voto: 8
+</div>
+
+**[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** è parte del servizio in abbonamento Apple Arcade
+<a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/it-it/badge-lrg.svg?releaseDate=2019-09-19&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ---
 
