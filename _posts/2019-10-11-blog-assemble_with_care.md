@@ -13,7 +13,7 @@ feature_image: "/assets/img/assemble-768x343.png"
 Sviluppatore: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
 Disponibile su: iOS / iPadOS / tvOS\\
 Controller: non supportato\\
-Link iTunes: <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>\\
+Link: <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>
 
 Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.\\
 In questa categoria possiamo sicuramente inserire **[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
@@ -21,7 +21,7 @@ In questa categoria possiamo sicuramente inserire **[Assemble with Care](https:/
 Nonostante il livello di sfida offerto al giocatore sia basso ed al tempo stesso la narrazione sia invece segnante, non credo si possa definire **[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** come una novella interattiva. Per terminare il livello è infatti necessario interagire parecchio con l'enigma, ed il giocatore non sarà spettatore di una storia completa ma di diverse scenette rese vive da alcuni cittadini di **Bellariva**.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=04i8usL2lF0" frameborder="0" allowfullscreen="true"> </iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/04i8usL2lF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Tramite brevi dialoghi ben recitati, seguiamo l'arrivo a Bellariva di **Maria**, abile riparatrice di oggetti comuni del nostro recente passato.\\
@@ -63,7 +63,7 @@ Nonostante il gioco sia disponibile su tutti i sistemi Apple, ne consiglio la fr
 ## Voto: 8
 </div>
 
-**[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** è parte del servizio in abbonamento Apple Arcade
+**[Assemble with Care](https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8)** è parte del servizio in abbonamento [Apple Arcade](https://www.apple.com/it/apple-arcade/)
 <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/it-it/badge-lrg.svg?releaseDate=2019-09-19&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ---
