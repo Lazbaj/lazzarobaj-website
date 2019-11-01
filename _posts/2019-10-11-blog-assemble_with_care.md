@@ -7,7 +7,7 @@ tags:
 - giochi
 - Apple Arcade
 - recensioni
-feature_image: "/assets/img/assemble-768x343.png"
+feature_image: "/assets/img/assemble_with_care_hero.png"
 ---
 
 Sviluppatore: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
@@ -17,6 +17,8 @@ Link: <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=
 
 Molti giochi contenuti nel servizio Apple Arcade offrono delle immersive esperienze videoludiche nonostante il livello di difficoltà richiesto per procedere sia decisamente basso.\\
 In questa categoria possiamo sicuramente inserire **Assemble with Care**, sviluppato e prodotto dai geniacci di ustwo games, i creatori del famosissimo e premiatissimo _Monument Valley_.
+
+{% include figure.html image="/assets/img/assemble_with_care_1.png" caption="Maria, la protagonista del gioco" %}
 
 Nonostante il livello di sfida offerto al giocatore sia basso ed al tempo stesso la narrazione sia invece segnante, non credo si possa definire **Assemble with Care** come una novella interattiva. Per terminare il livello è infatti necessario interagire parecchio con l'enigma, ed il giocatore non sarà spettatore di una storia completa ma di diverse scenette rese vive da alcuni cittadini di **Bellariva**.
 
