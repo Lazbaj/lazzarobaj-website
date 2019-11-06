@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Perché?
+permalink: /perche/
 categories:
 - Blog
 tags:
