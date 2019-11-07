@@ -6,6 +6,7 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+- .jekyll-cache
 
 # Installed Gems
 plugins:
@@ -16,6 +17,8 @@ plugins:
 - jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 
 # Gem settings
@@ -31,6 +34,10 @@ social: # jekyll-seo-tag > social overrides
     - https://twitter.com/Lazbaj
     - https://www.facebook.com/lazbaj
     - https://github.com/Lazbaj
+markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
 
 # Jekyll settings
 sass:
@@ -72,22 +79,41 @@ url: 'https://lazzarobaj.com' # Site url, also used in jekyll-seo-tag
 baseurl: ''
 repo: "https://github.com/Lazbaj/lazzarobaj-website"
 email: "laz@lazzarobaj.com"
-avatarurl: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+# avatarurl: "https://www.gravatar.com/avatar/f99b82794a0bdf10fb121a102ccd34d5" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 google_analytics: 'UA-301116-4'
+google_analytics_anonymize_ip: false
 service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+# Site favicons & manifest icons
+# favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  # 16: '/assets/logos/logo@16px.png'
+  # 32: '/assets/logos/logo@32px.png'
+  # 96: '/assets/logos/logo@96px.png'
+  # 120: '/assets/logos/logo@120px.png'
+  # 144: '/assets/logos/logo@144px.png'
+  # 180: '/assets/logos/logo@180px.png'
+  # 512: '/assets/logos/logo@512px.png'
+  # 1024: '/assets/logos/logo@1024px.png'
+
 # Site navigation
 navigation_header:
-  Home: /
-  About: /about/
-  Blog: /blog/
-  Progetti: /elenco-progetti/
-  Categorie: /categorie/
-  Cerca: /cerca/
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
+- title: Progetti
+  url: /elenco-progetti/
+- title: Categorie
+  url: /categorie/
+- title: Cerca
+  url: /cerca/
 
 navigation_footer:
-  Back to top: "#top"
+- title: Torna in alto
+  url: "#top"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   # LinkedIn: https://www.linkedin.com/in/lazbaj
@@ -97,13 +123,10 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   link: http://laz-giulia.it
   RSS: /feed.xml
 
-sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#a0a0a0"
   facebook: "#a0a0a0"
   tumblr: "#a0a0a0"
-  # Pinterest: "#BD081C"
+  Email: true
   # LinkedIn: "#0077B5"
   # Reddit: "#FF4500"
-  # Hacker News: "#ff6600"
-  # Designer News: "#2D72D9"
-  # Email: ""
