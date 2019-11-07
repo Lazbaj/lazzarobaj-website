@@ -5,6 +5,15 @@ styles: true
 
 @import "alembic";
 
+.feature {
+    margin-bottom: 0;
+}
+
+.article--post {
+    padding: 0 4%;
+    background: #555;
+}
+
 .footer {
   background: $backgroundColour;
   color: $captionColour;
