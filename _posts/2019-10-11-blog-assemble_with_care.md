@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Assemble with Care
 categories:
 - Recensioni
 tags:
@@ -7,7 +8,6 @@ tags:
 - Apple Arcade
 - recensioni
 feature_image: "/assets/img/assemble_with_care_hero.png"
-feature_text: "Assemble with Care"
 comments: false
 ---
 
@@ -16,7 +16,7 @@ comments: false
 Sviluppatore: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
 Disponibile su: iOS / iPadOS / tvOS\\
 Controller: non supportato\\
-<a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>
+Link <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>
 </div>
 {::options parse_block_html="false" /}
 
