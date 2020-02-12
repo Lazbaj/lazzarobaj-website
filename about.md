@@ -12,5 +12,5 @@ Amo approfondire gli oggetti delle mie passioni e condividere i risultati delle 
 Esploro alcuni scenari particolari, e tento di ottimizzare i progetti su cui metto le mani.
 
 Due pagine da leggere come introduzione al progetto:
-* [Perché?](/perche/)
-* [Cosa?](/cosa/)
+* [Perché?]({% post_url 2020-02-10-blog-perche %})
+* [Cosa?]({% post_url 2020-02-10-blog-cosa %})
