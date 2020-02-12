@@ -35,3 +35,4 @@ La sua raccomandazione era ovviamente di sforzarsi per tenere il bilancio in **a
 Nella mia **vita online**, non posso certo affermare di essere in attivo, consumando ed usando a mio vantaggio terabyte di contenuti prodotti da altri: recensioni, guide, consigli, suggerimenti, foto, video, ecc.\\
 È quindi il momento di sforzarmi ad incrementare le voci positive sul mio bilancio, per cercare di ridurre l'ammontare del mio saldo in passivo.
 
+---
