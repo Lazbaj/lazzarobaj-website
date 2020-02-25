@@ -7,7 +7,7 @@ tags:
 - giochi
 - Apple Arcade
 - recensioni
-feature_image: "/assets/img/way_of_the_turtle.png"
+feature_image: "/assets/img/way_of_the_turtle_hero.png"
 comments: false
 ---
 
