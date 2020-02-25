@@ -14,7 +14,7 @@ comments: false
 {::options parse_block_html="true" /}
 <div class="game_info">
 Sviluppatore: [ustwo games](https://www.ustwogames.co.uk/) (London, UK)\\
-Disponibile su: iOS / iPadOS / tvOS\\
+Disponibile su: iOS / iPadOS / tvOS / macOS\\
 Controller: non supportato\\
 Link <a href="https://apps.apple.com/it/app/assemble-with-care/id1450498694?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/it-it/appstore-sm.svg) no-repeat;width:60px;height:15px;"></a>
 </div>
